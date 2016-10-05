@@ -1,0 +1,6 @@
+---
+published: true
+title: Say Hi
+layout: post
+---
+你们好，我是Max Zhang，目前在云南省丽江市宁蒗县永宁乡温泉完小支教。
